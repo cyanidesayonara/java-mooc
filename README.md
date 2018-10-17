@@ -1,3 +1,3 @@
 # java mooc
-Returned exercises for java mooc "Ohjelmoinnin MOOC 2017". (Finished)
+Returned exercises for programming MOOC "Ohjelmoinnin MOOC 2017" using Java. (Finished)
 https://2017-ohjelmointi.github.io/
